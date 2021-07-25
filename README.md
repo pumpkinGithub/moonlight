@@ -1,2 +1,3 @@
-# moonlight
-a rework of alk launcher
+# Moonlight Launcher
+
+Its just a launcher
